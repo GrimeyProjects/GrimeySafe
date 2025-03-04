@@ -24,7 +24,7 @@ Custom Matches
 
 ## Minimum
 
-- GeForce RTX 3050
+- Nvidia GeForce RTX 3050
 
 - 80 GB Storage
 
@@ -32,8 +32,11 @@ Custom Matches
 
 ## Recommended
 
-- GeForce RTX 4090 
+- Nvidia GeForce RTX 4090 
 
 - 16 GB Ram 
 
 - 120 GB Storage (HD Textures)
+
+
+# 
